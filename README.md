@@ -5,6 +5,10 @@
 
 BikeSpace is a community-built web app that lets people report the issues they find when trying to park their bikes in the City of Toronto. For more about the project, please see [bikespace.ca](https://bikespace.ca/).
 
+## Minimum version
+
+The Bikespace Project requires a minimum Python version of 3.9.6
+
 ## Project Structure
 
 The BikeSpace application has 3 major components the backend API, the frontend and the dashboard.
